@@ -1,0 +1,16 @@
+title: "About Polyglot Programmers of Austin"
+author: Sharon
+date: 2012/01/10
+slug: about
+
+In the meantime, here's a quick summary of the group.
+
+The theme is learning a new programming language.
+
+Join us on 2nd and 4th Thursdays of the month, 6:00 to 9:00 pm, at the Headspring office at 4807 Spicewood Springs Rd., Bldg. 4, Suite 201, 78759. Bring your laptop, projects, and study materials, for independent or group study of a new programming language (or your first programming language). There is no curriculum provided by the group; this is not a class. It is co-working and camaraderie--like study hall, but fun.
+
+You are welcome to bring your dinner and to use our microwave and toaster oven. No food is being provided by the group.
+
+We'll take a break at 7:30 for a 20-minute presentation from a member of the group. (Volunteer in advance.) The best way to master a new skill is to explain it to others, and although it might be awhile before you're ready to present to AustinJS or AustinRails, you're welcome to practice with us.
+
+Follow @PolyglotATX on Twitter.
