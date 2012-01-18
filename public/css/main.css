@@ -5,11 +5,33 @@ body {
   font-size: 20px;
   line-height: 30px;
   padding: 15px;
-  width: 720px;
-
 }
 header, footer, section, article {
 	display: block;
+}
+#siteTitle {
+  font-size: 2.5em;
+  margin-bottom: 35px;
+  line-height: .8em;
+}
+.subSiteTitle {
+  font-style: italic;
+  font-size: .8em;
+  display: block;
+  padding-left: 1em;
+}
+#description {
+  float: left;
+  padding-right: 35px;
+  border-right: 1px solid #888;
+  border-bottom: 1px solid #888;
+  border-bottom-right-radius: 8px 8px;
+  max-width: 600px;
+  width: 50%;
+}
+#articles {
+  float: right;
+  width: 40%;
 }
 #content {
 }
@@ -28,9 +50,8 @@ header, footer, section, article {
 }
 .date {
   font-style: italic;
+  font-weight: normal;
   float: right;
-  line-height: 43px;
-  margin-right: 30px;
 }
 a {
   color: #b83000;
@@ -80,13 +101,15 @@ body > header > h1 {
 body > header {
 	display: block;
 	padding-top: 30px;
-	line-height: 180px;
 	margin-bottom: 20px;
 }
 h1, h2, h3, h4 {
-  display: inline;
   margin: 0;
   font-weight: 600;
+}
+#description .hdr {
+  font-weight: 600;
+  font-size: 1.2em;
 }
 ul, li {
   list-style-type: none;
@@ -107,4 +130,5 @@ body > footer {
 	font-style: italic;
   font-size: 18px;
   color: #888;
+  clear: both;
 }
