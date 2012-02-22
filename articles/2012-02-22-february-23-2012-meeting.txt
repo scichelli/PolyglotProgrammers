@@ -1,0 +1,16 @@
+title: "Feb 23 Meeting, with Haskell"
+author: Sharon
+date: 2012/02/22
+slug: february-23-2012-meeting
+
+Fourth Thursday, time for our second meeting. Fifteen developers joined us last time, and the spirit was effervescent with possibility and collaboration.
+
+We'll follow the same format tomorrow: Arrive at 6 pm, find a spot, work alone or with buddies on a project of your own choosing. Feel free to bring your own dinner; we have microwaves available.
+
+At 7:30 we'll take a break and hear a 20-minute presentation from one of our peers; in this case, <a href="https://twitter.com/#!/lonestardev">Louis Salin</a> will tell us a story about Haskell. True to the Polyglot spirit, Louis is learning in public, putting his <a href="https://github.com/louissalin/haskell-exercises">Haskell exercises on GitHub</a>. 
+
+After that, we'll continue hacking away, wrapping up at 9.
+
+If you want to share what you're learning during the break in a future meeting, catch Sharon in person or tweet at @PolyglotATX.
+
+Hope to see you tomorrow!
