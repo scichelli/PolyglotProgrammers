@@ -13,10 +13,14 @@ end
 # Create and configure a toto instance
 #
 toto = Toto::Server.new do
+  set :title,   'Polyglot Programmers of Austin'
+  set :url,     'http://www.polyglotprogrammers.org'
+  set :author,  'Sharon J. Cichelli'
+  set :disqus,  'polyglotatx'
   #
+  # 
   # Add your settings here
   # set [:setting], [value]
-  # 
   # set :author,    ENV['USER']                               # blog author
   # set :title,     Dir.pwd.split('/').last                   # site title
   # set :root,      "index"                                   # page to load on /
