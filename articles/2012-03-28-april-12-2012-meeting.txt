@@ -1,0 +1,14 @@
+title: "Building a Language - Next meeting, April 12"
+author: Sharon
+date: 2012/03/28
+slug: april-12-2012-meeting
+
+<a href="http://www.headspring.com/author/plioi">Patrick Lioi</a> will present during the mid-meeting break on April 12.  Patrick is building a language named <a href="https://github.com/plioi/rook">Rook</a>.
+
+Why "Rook"? He answers, "If Guido van Rossum can name Python after his favorite comedy troupe, I can name mine after my favorite member of the <em>passerine</em> order of birds."
+
+While developing Rook, Patrick also created a general-purpose parsing library called <a href="https://github.com/plioi/parsley">Parsley</a>. He will show us how to create our own languages by breaking down that task into several distinct phases: tokenization, parsing, type checking, and code generation.
+
+Please join us, 6pm at the Headspring office on April 12th, for our usual co-working and coding, taking a break at 7:30 to learn from Patrick. Continue to spread the word, retweet @PolyglotATX, and invite your friends to come along.
+
+If you want to share what you're learning in a future meeting, catch Sharon in person or tweet at @PolyglotATX.
