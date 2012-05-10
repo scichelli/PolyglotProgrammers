@@ -1,0 +1,12 @@
+title: "Upcoming Lightning Talks"
+author: Sharon
+date: 2012/04/20
+slug: april-may-lightning
+
+Exciting upcoming talks to look forward to, in addition to the fun co-learning atmosphere. Members have volunteered for the following lightning talks.
+
+April 26, Louis Salin (<a href="https://twitter.com/#!/lonestardev">@lonestardev</a>) on using Unix/Linux as a development platform.
+May 10, Alonso Robles (<a href="https://twitter.com/#!/alonsorobles">@alonsorobles</a>) on RavenDB.
+May 24, Cheyenne J. Clark (<a href="https://twitter.com/#!/CheyenneJClark">@CheyenneJClark</a>) on visual resolution, directing how the eye flows over a design.
+
+If you want to share what you're learning in a future meeting, catch Sharon in person or tweet at @PolyglotATX.
