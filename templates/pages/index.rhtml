@@ -17,24 +17,28 @@
     Your laptop. Your coding projects and study materials. A snack if you wish.</p>
   <p><span class="hdr">Follow:</span>
     <a href="https://twitter.com/#!/PolyglotATX">@PolyglotATX</a></p>
-  <p><span class="hdr">Sponsors:</span><br>
-    <a href="http://www.headspring.com/"><img style="background-color: black;" src="images/headspring.png" alt="Headspring"></a><br>
-    <a href="http://www.teksystems.com/"><img src="images/teksystems.gif" alt="TEKSystems"></a><br>
-    <a href="http://www.pluralsight.com/"><img src="images/pluralsight.png" alt="PluralSight"></a><br>
-    <a href="http://www.oreilly.com/"><img src="images/oreilly.gif" alt="O'Reilly"></a></p>
+  <p><span class="hdr">Subscribe:</span>
+    <a href="https://groups.google.com/group/polyglotATX">Google Groups announce list</a></p>
+  <p id="sponsors"><span class="hdr">Sponsors:</span>
+      <a href="http://www.headspring.com/"><img style="background-color: black;padding: 5px;" src="images/headspring.png" alt="Headspring"></a>
+      <a href="http://www.teksystems.com/"><img src="images/teksystems.gif" alt="TEKSystems"></a>
+      <a href="http://www.pluralsight.com/"><img src="images/pluralsight.png" alt="PluralSight"></a>
+      <a href="http://www.oreilly.com/"><img src="images/oreilly.gif" alt="O'Reilly"></a>
+  </p>
 </section>
 
 <section id="articles">
+  <h2>Announcements</h2>
   <% for article in articles[0...3] %>
     <article class="post">
       <header>
-        <h1><a href="<%= article.path %>"><%= article.title %></a>
-        <span class="date"><%= article.date %></span></h1>
+        <h3><a href="<%= article.path %>"><%= article.title %></a></h3>
       </header>
 
       <section class="content">
         <%= article.summary %>
       </section>
+      <div class="date">&mdash;posted <%= article.date %></div>
       <% if article.body.length > @config[:summary][:max] %>
         <div class="more"><a href="<%= article.path %>">read on &raquo;</a></div>
       <% end %>
