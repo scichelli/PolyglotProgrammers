@@ -1,0 +1,6 @@
+title: "Resources"
+author: Sharon
+date: 2012/05/26
+slug: stay-informed
+
+New resources for keeping up with Polyglot Programmers: a <a href="http://www.polyglotprogrammers.org/calendar">calendar</a> to which you can subscribe, and an announce-only <a href="https://groups.google.com/group/polyglotATX">Google Group</a>. And there's still Twitter, <a href="http://twitter.com/#!/polyglotatx">@PolyglotATX</a>. Please spread the word.
