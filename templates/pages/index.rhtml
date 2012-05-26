@@ -35,7 +35,9 @@
       <section class="content">
         <%= article.summary %>
       </section>
-      <div class="more"><a href="<%= article.path %>">read on &raquo;</a></div>
+      <% if article.body.length > @config[:summary][:max] %>
+        <div class="more"><a href="<%= article.path %>">read on &raquo;</a></div>
+      <% end %>
     </article>
   <% end %>
   <section id="archives">
