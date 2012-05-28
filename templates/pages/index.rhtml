@@ -39,7 +39,7 @@
         <%= article.summary %>
       </section>
       <div class="date">&mdash;posted <%= article.date %></div>
-      <% if article.body.length > @config[:summary][:max] %>
+      <% if article.body.gsub(/<\/?[^>]*>/, "").gsub(/&.*?;/, "x").length > @config[:summary][:max] %>
         <div class="more"><a href="<%= article.path %>">read on &raquo;</a></div>
       <% end %>
     </article>
