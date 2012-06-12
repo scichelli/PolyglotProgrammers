@@ -1,0 +1,6 @@
+title: "June 14th Meeting"
+author: Sharon
+date: 2012/06/11
+slug: june-14th-meeting
+
+Join us on June 14th, 6pm at Headspring. Chris Missal (<a href="https://twitter.com/#!/ChrisMissal">@ChrisMissal</a>) will present the lightning talk, sharing a survey of language features across a variety of programming languages.
