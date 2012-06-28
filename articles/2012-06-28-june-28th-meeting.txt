@@ -1,0 +1,6 @@
+title: "June 28th Meeting"
+author: Sharon
+date: 2012/06/28
+slug: june-28th-meeting
+
+Today's meeting features a round of five-minute lightning talks from our members. Some folks are trying something new, presenting to a technical audience for the first time, and everybody's learning. Definitely a fun place to be.
