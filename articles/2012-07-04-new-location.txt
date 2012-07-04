@@ -1,0 +1,8 @@
+title: "New Location, New Location, New Location"
+author: Sharon
+date: 2012/07/04
+slug: new-location
+
+Because our host <a href="http://www.headspring.com/">Headspring</a> is moving into a new office this weekend, Polyglot Programmers will be moving right along with them. Starting with the first meeting in July, meetings will be in the new location.
+
+The new address is 10415 Morado Circle, Building 3, Third Floor, Austin, TX 78759.
