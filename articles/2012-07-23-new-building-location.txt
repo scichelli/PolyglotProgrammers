@@ -7,6 +7,6 @@ Finding the new building proved a challenge for many last time. Here are instruc
 
 The address is 10415 Morado Circle, near the intersection of Braker Lane and Jollyville Road.  Approaching the intersection from Braker, go straight through the light at Jollyville.  After the intersection, take your second right into the office building complex. Continue driving straight until you must turn right into the parking garage.  Upon entering the parking garage, you will be facing Building 3 at the opposite end of the garage. After you've parked, enter the building and take the elevator to the third floor.
 
-<a href="/images/PolyglotsMap.png"><img src="/images/PolyglotsMap.png" alt="Map showing Google's pin is off the mark" width="700"></a>
+<a href="/images/PolyglotsMap.png"><img src="/images/PolyglotsMap.png" alt="Map showing Google's pin is off the mark" width="700" /></a>
 
 See you there this Thursday!
