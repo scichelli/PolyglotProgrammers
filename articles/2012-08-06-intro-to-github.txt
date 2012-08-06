@@ -1,0 +1,14 @@
+title: "How do I... github?"
+author: Sharon
+date: 2012/08/06
+slug: intro-to-github
+
+Join us this Thursday. The mid-meeting break will introduce github.
+
+<a href="http://git-scm.com/">Git</a> is a source-control system, for managing changes to your code over time. Even on a project team of one, it's a great tool for staying organized, leaving messages to yourself about why you changed something, and creating restore points in your code before you try something risky. <a href="http://github.com/">Github</a> is an on-line service that hosts people's git source-code repositories. But it's more than that. It's a social and fun way to participate in the developer community, and the ways it makes collaboration easy have revolutionized open-source software.
+
+Cedric has a project he'd like to put on Github. Chris is an old hand at this. When we take our mid-meeting break, Cedric and Chris will work together, letting us follow along, to put Cedric's project up on Github and get him comfortable with it. 
+
+Other than that, we'll host our typical format: co-working, communal, self-paced study on personal projects. We take a 20-minute break at 7:30 for a presentation from one of our members (and a much-needed brain break).
+
+If you've ever been curious to contribute to open-source software, or you'd like to learn by reading some of the best code out there, or you want a better way to wrangle your own projects (personal or professional), or you want the most compelling kind of "developer portfolio" for your job application, you'll enjoy this session. August 9th, 6pm, at the new Headspring office. See you there!
