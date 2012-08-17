@@ -1,0 +1,14 @@
+title: Special Guest, Oren Eini
+author: Sharon
+date: 2012/08/17
+slug: oren-eini
+
+Last time Chris and Cedric introduced us to using Github for open-source projects. At our upcoming meeting, <a href="http://www.adnug.org/">ADNUG</a>, <a href="http://www.headspring.com/">Headspring</a>, and <a href="http://www.polyglotprogrammers.org/">Polyglot Programmers</a> will host open-source powerhouse Oren Eini (a.k.a., <a href="http://ayende.com/blog">Ayende Rahien</a>), next Thursday, August 23rd. There will be an informal meet-and-greet with food and beverages (4:00, earlier than our usual start time), plus a presentation and discussion with Oren about his open-sourced document database, <a href="http://ravendb.net/">RavenDB</a>.
+
+See the event description, <a href="http://www.headspring.com/blog/small-talk-and-big-news/openhouseparty/">Open House Party with Special Guest: Oren Eini</a>, for more details.
+
+You all are warmly invited. To make that go smoothly, would you please register on EventBrite? <a href="http://www.eventbrite.com/event/4102107514">http://www.eventbrite.com/event/4102107514</a>
+
+Open house starts at 4:00. Oren's presentation will start at 6:00.
+
+Please join us. It's a great opportunity to meet and learn from a highly prolific developer, to see how software gets <em>done</em>.
