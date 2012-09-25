@@ -1,0 +1,6 @@
+title: The Strategy Pattern with John
+author: Sharon
+date: 2012/09/24
+slug: sept-27-meeting
+
+Bring your projects and hang out with us this Thursday. During the mid-meeting break, John Crowe (<a href="https://twitter.com/TheCrow1213/">@TheCrow1213</a>) will share with us his recent insights on the Strategy Pattern, an object-oriented design pattern. See ya there!
