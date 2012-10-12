@@ -13,4 +13,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  builder
+  rdiscount
   toto
