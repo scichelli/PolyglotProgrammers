@@ -7,11 +7,12 @@ task :default => :new
 desc "Create a new article."
 task :new do
   title = ask('Title: ')
-  slug = title.empty?? nil : title.strip.slugize
+  slugInput = ask('Slug: ')
+  slug = slugInput.empty?? title.strip.slugize : slugInput
 
-  article = {'title' => title, 'date' => Time.now.strftime("%d/%m/%Y")}.to_yaml
+  article = {'title' => title, 'author' => 'Sharon', 'date' => Time.now.strftime("%Y/%m/%d/"), 'slug' => slug}.to_yaml
   article << "\n"
-  article << "Once upon a time...\n\n"
+  article << "\n"
 
   path = "#{Toto::Paths[:articles]}/#{Time.now.strftime("%Y-%m-%d")}#{'-' + slug if slug}.#{@config[:ext]}"
 
