@@ -1,0 +1,6 @@
+title: "It's Ruby vs ...BASIC?"
+author: Sharon
+date: 2012/10/11/
+slug: oct-25-mtg
+
+Join us on the 4th Thursday in October for an unexpected throwdown between Ruby and BASIC. We'll have our usual co-working self-paced study, then during our mid-meeting break, <a href="http://necessaryfacts.blogspot.com/">Mike Marotta</a> will compare and contrast the language he's programmed in for years with the one he is learning.
