@@ -1,0 +1,6 @@
+title: Red, Blue... Refactor!
+author: Sharon
+date: 2012/11/07/
+slug: nov-8-mtg
+
+Celebrate the conclusion of the election season by hanging out with friends, writing code, and learning something new. We're on our own for dinner this week. You're welcome to use the plates, cutlery, microwave, and toaster oven at Headspring. Bring your projects and join us!
