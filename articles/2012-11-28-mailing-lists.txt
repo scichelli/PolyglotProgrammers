@@ -1,0 +1,10 @@
+title: Stay informed, get reminders, make stuff happen
+author: Sharon
+date: 2012/11/28
+slug: mailing-lists
+
+We have two useful mailing lists on Google Groups.<br />
+<a href="https://groups.google.com/forum/?fromgroups#!forum/polyglotATX">PolyglotATX</a> is the announce list, for meeting reminders.<br />
+<a href="https://groups.google.com/forum/?fromgroups#!forum/polyglotATX-self">PolyglotATX-self</a> is <span style="background-color:yellow; padding:2px;">new</span> and is a discussion list for members to organize subject-specific study groups, meals, rides, and the like.
+
+Please join up. :)
