@@ -1,0 +1,6 @@
+title: What's brewing on the -self list? Arduino!
+author: Sharon
+date: 2012/12/5
+slug: arduino
+
+On the newly minted <a href="https://groups.google.com/forum/?fromgroups#!forum/polyglotATX-self">PolyglotATX-self</a> discussion list, a group of aspiring hardware hackers are gearing up to learn about the Arduino together. Subscribe to the group, bring your microcontroller on Dec 13, join in! Beginners and the breadboard-less are welcome.
